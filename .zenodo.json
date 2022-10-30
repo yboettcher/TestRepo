@@ -1,0 +1,15 @@
+{
+    "creators": [
+        {
+            "name": "Yannik Böttcher"
+        }
+    ],
+    "contributors": [
+      {
+            "name": "John Doe", "type": "other"
+        }
+    ],
+    "references": [
+        "The Test Library, Yannik"
+      ]
+}
