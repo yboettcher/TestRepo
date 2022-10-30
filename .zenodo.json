@@ -11,5 +11,6 @@
     ],
     "references": [
         "The Test Library, Yannik"
-      ]
+      ],
+    "description": "This is a test, based on xyz"
 }
